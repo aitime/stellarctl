@@ -53,4 +53,4 @@ Addr: GBAFIE4L5KOWXBY47VY3D2AZNTNG2LX27RLXEFA2YM56QWX56LRMBART
     --amount 10
 ```
 
-No you have a secondary account and an attacker could not say that this is not the only account you own.
+Now you have a secondary account and an attacker could not say that this is not the only account you own.
